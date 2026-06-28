@@ -69,7 +69,9 @@ This project focuses on learning and practicing:
 
 You can add screenshots or a GIF of the application here.
 
-<img src='Capture.PNG' />
+<img src='./Capture.PNG' />
+
+https://mr-arez.github.io/Todo-app/
 
 ---
 
